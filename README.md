@@ -4,7 +4,7 @@ This webpage captures details about me and my web design projects. It was Last U
 By Nancy Muriithi
 
 # Description
-The page shall enable visitors to have an indepth view of my work and competence. It shall provide viewers with a list of my previous work as well as what I am able to offer.
+The page shall enable visitors to have an indepth view of my work and competence. It shall also provide viewers with a list of my previous work as well as what I am able to offer.
 
 # Setup/Installation Requirements
 It is available on Github page https://nancymuriithi.github.io/myportfolio/   </br>
