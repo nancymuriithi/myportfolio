@@ -1,7 +1,9 @@
 # My Portfolio
 
-This webpage captures details about me and my web design projects. It was Last Updated on 4/11/2021
-By Nancy Muriithi
+This webpage captures details about me and my web design projects. It was Last Updated on 1/11/2021
+
+# Author name
+Nancy Muriithi
 
 # Description
 The page shall enable visitors to have an indepth view of my work and competence. It shall also provide viewers with a list of my previous work as well as what I am able to offer.
