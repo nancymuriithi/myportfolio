@@ -7,8 +7,8 @@ By Nancy Muriithi
 The page shall enable visitors to have an indepth view of my work and competence. It shall provide viewers with a list of my previous work as well as what I am able to offer.
 
 # Setup/Installation Requirements
-It is available on Github page https://nancymuriithi.github.io/myportfolio/
-Clone repository from https://github.com/nancymuriithi/myportfolio.git
+It is available on Github page https://nancymuriithi.github.io/myportfolio/   </br>
+Clone repository from https://github.com/nancymuriithi/myportfolio.git   </br>
 It can run on any browser.
 
 # Known Bugs

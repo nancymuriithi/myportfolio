@@ -28,17 +28,21 @@
 }
 
 .left {
-  float: left;
-  max-width: 33%;
+align-content: left;
+float: left;
 }
 
 .right {
-  float: right;
-  max-width: 66%;
+    align-content: right;
+padding-left: 40px;
 }
 
 body {
-  background-color: #ffdab3;
+  background-color: brown;
   padding: 20px;
 }
 
+h2 {
+    font-style: italic;
+    color: brown;
+  }
